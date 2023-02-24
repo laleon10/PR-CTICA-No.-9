@@ -50,8 +50,7 @@ Determinar experimentalmente las características de señales senoidales.
    
    ![](https://github.com/jlcastro5/Laboratorio9/blob/a92e7916ca568585734de0ae2569a5c2e5526176/C1.PNG)
    ![](https://github.com/jlcastro5/Laboratorio9/blob/a92e7916ca568585734de0ae2569a5c2e5526176/C2.PNG)
-   ![](https://github.com/jlcastro5/Laboratorio9/blob/a92e7916ca568585734de0ae2569a5c2e5526176/C3.PNG)
-   
+![C3](https://user-images.githubusercontent.com/116819463/221223636-7d4e5808-1c75-498a-ad4c-5b2f7c51ab7d.png)   
    Resuelva las operaciones anteriores por medio de la calculadora y compare 
    resultados
    
